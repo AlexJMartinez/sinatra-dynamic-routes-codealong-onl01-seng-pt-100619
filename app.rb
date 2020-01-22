@@ -24,7 +24,4 @@ class App < Sinatra::Base
     "#{@product}"
   end
 
-
-
-
 end
